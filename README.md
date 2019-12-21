@@ -24,7 +24,7 @@ should not much a problem.
 * restart zabbix\_agentd
 
 ## Author
-* Chatchai Jantaraprim (https://github.com/chatchaij
+* Chatchai Jantaraprim (https://github.com/chatchaij)
 
 ## License
 This project is licensed under the MIT License
